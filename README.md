@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RitzBell
 - 👀 I’m interested in learning and learining from others
-- 🌱 I’m currently learning cloud security
+- 🌱 I’m currently learning cloud security, Linux, IBMi, Skytap etc
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me, ping me on Github
 
